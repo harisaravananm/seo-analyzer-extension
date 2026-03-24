@@ -1,0 +1,25 @@
+body {
+  font-family: Arial;
+  width: 280px;
+  padding: 10px;
+  background: #111;
+  color: #fff;
+}
+
+h2 {
+  text-align: center;
+}
+
+#score {
+  font-size: 20px;
+  text-align: center;
+  margin: 10px 0;
+}
+
+.section p {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+.good { color: #4caf50; }
+.bad { color: #f44336; }
